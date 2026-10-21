@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+customer_service.db
+*.db-journal
+.env
+.DS_Store
